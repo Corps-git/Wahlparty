@@ -56,7 +56,7 @@
          "height":33,
          "id":7,
          "name":"AudioToilette",
-         "opacity":0.15,
+         "opacity":1,
          "properties":[
                 {
                  "name":"playAudio",
@@ -92,7 +92,7 @@
          "height":33,
          "id":1,
          "name":"Boden",
-         "opacity":0.47,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":35,
